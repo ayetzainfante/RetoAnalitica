@@ -1,6 +1,6 @@
 # RetoAnalitica
 
-Etapa 1: Estadísticas descriptivas
+##Etapa 1: Estadísticas descriptivas
 Tras realizar el análisis de los beneficiarios de programas de apoyo de julio a diciembre de 2018, podemos obtener las siguientes conclusiones:
 Beneficiario y Programa de Apoyo Más Repetidos:
    - El beneficiario más repetido fue Brian Alejandro Franco Ceja.
@@ -16,7 +16,8 @@ Rango de Montos de Apoyo:
    - La menor donación registrada fue de $3,594.52.
 
 
-Etapa 2: 
+##Etapa 2: 
+
 Hay alguna variable que no aporte información? Si tuvieras que quitar variables ¿cuáles quitarías?
 - Todas las variables pueden aportar información para la toma de decisiones, pero lo que cambia es la problemática que necesita esa toma de decisiones. En este caso la clave del programa no influye mucho en nuestro análisis de la base de datos, igualmente el nombre del proyecto no son variables cuantitativas y esto no brinda información para las gráficas y el análisis. Igualmente con esto probablemente quitaría la variable que no es cuantitativa lo cual es los nombres de los proyectos. Esto nos sirve para tener una idea de cuál fue el proyecto pero no brinda ningún tipo de información cuantitativa para la toma de decisiones.
   
